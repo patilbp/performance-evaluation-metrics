@@ -1,5 +1,7 @@
 # BDA 600: Capstone Seminar (Comprehensive Exam)
 ## Project Title: Performance Evaluation Metrics System
+![BG Title](https://github.com/patilbp/performance-evaluation-metrics/assets/36761520/4397572a-bd15-4897-bda9-78edf25c6fcb)
+<br><br>
 This project was developed for serving the comprehensive exam coursework requirements for the BDA600 - Capstone Seminar course at San Diego State University.
 This is a employer sponsored project and all the project requirements are shared by the employer <a href="https://valorcompounding.com/"> Valor Inc. </a>
 <br><br>
@@ -30,5 +32,40 @@ Valor inc. is a company based in Berkeley, California, USA; who specializes in m
 ### Project Development Life Cycle:
 - Hybrid methodology used for development (agile + traditional).
 ### Project Roadmap:
-
+| Week | Date | Tasks |
+| :--------: | :--------: | :-------- |
+| 1 | 01/19 | Project statement discovery |
+| 2 | 01/26 | Weekly Sync-1 : Capstone project statement finalization |
+|   | 02/01 | Weekly Sync-2 : Project kickoff meeting |
+|   |       | Business requirements discussion |
+| 3 | 02/02 | Project roadmap |
+|   |       | San Diego State University : BDA 600 - Project proposal presentation |
+| 4 | 02/09 | Exploratory data analysis |
+|   | 02/14 | Weekly Sync-3 : Brainstorming session for data model building |
+|   |       | Data model for evaluation metrics |
+| 5 | 02/16 | GitHub : create repository and project website page |
+|   |       | Lucid Chart : create dashboard wireframes and get design approval |
+|   |       | Documentation : add all details till date |
+|   | 02/20 | Weekly Sync-4 : Finalize metrics data model |
+| 6 | 02/23 | Build custom data views for specific data metrics |
+| 7 | 03/02 | QlikSense : Pre-requisites set-up |
+|   |       | Design dashboards |
+| 8 | 03/09 | Demo the dashboards to the management team |
+|   |       | Implement feedback and improvise the dashboards |
+| 9 | 03/16 | Optimize the custom views/ queries/ metrices |
+| 10 | 03/23 | Website : Embed dashboard overview (aggregated views) and results |
+| 11 | 03/30 | Re-iterate modifications and update documentation |
+| 12 | 04/06 | Roll-up dashboards for go-live |
+| 13 | 04/13 | Website : finalize website design and content to be posted |
+|    |       | Build video (summarize project in 3-mins) |
+| 14 | 04/20 | Project wrap-up |
+|    |       | Documentation |
+| 15 | 04/27 | San Diego State University : Final project presentation |
+| 16 | 05/02 | San Diego State University : Final project report submission |
+### Data Sources
+- PK (Compounding Pharmacy System Software) - For all prescriptions related data
+- Five9 - For all calls related data source.
+- Zendesk - For all tickets related data
+- Homebase API - For all employee schedule related data
+- Data Pipelining & Channelizing Tools - Talend, Snowflake
 <br>
