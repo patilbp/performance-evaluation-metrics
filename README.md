@@ -1,16 +1,13 @@
 # BDA 600: Capstone Seminar (Comprehensive Exam)
 ## Project Title: Performance Evaluation Metrics System
-![BG Title](https://github.com/patilbp/performance-evaluation-metrics/assets/36761520/4397572a-bd15-4897-bda9-78edf25c6fcb)
-<br><br>
 This project was developed for serving the comprehensive exam coursework requirements for the BDA600 - Capstone Seminar course at San Diego State University.
 This is a employer sponsored project and all the project requirements are shared by the employer <a href="https://valorcompounding.com/"> Valor Inc. </a>
 <br><br>
-<b> Project Website: </b><a href="https://bhagya22july.wixsite.com/performanceevaluatio"> Performance Evaluation System - Website</a>
+![BG Title](https://github.com/patilbp/performance-evaluation-metrics/assets/36761520/4397572a-bd15-4897-bda9-78edf25c6fcb)
 <br>
-<b> Project Presentation: </b><a href="https://prezi.com/view/159ZgqsUeoTpJX5L0MHS/"> Slides </a>
-<br>
-<b> Project Video: </b><a href="https://youtu.be/6D4Lrmmmc3g"> Summary Video </a>
-<br>
+- <b> Project Website: </b><a href="https://bhagya22july.wixsite.com/performanceevaluatio"> Performance Evaluation System - Website</a>
+- <b> Project Presentation: </b><a href="https://prezi.com/view/159ZgqsUeoTpJX5L0MHS/"> Slides </a>
+- <b> Project Video: </b><a href="https://youtu.be/6D4Lrmmmc3g"> Summary Video </a>
 ## About Employer
 Valor inc. is a company based in Berkeley, California, USA; who specializes in manufacturing and providing customized compounded medicines to the users. Custom compounded medicines simply means that if any user has any allergic reaction to any specific drug or any specific component of medication he/she is undergoing, Valor customizes the medication formula by using their pharmaceutical expertise and tried to build a customized medication with new replaced compound in place of the allergic compound and as per the user’s specific needs.
 <br>
@@ -29,7 +26,7 @@ Valor inc. is a company based in Berkeley, California, USA; who specializes in m
 ### Solution:
 - To develop a performance evaluation metrics system for the customer care department employees.
 - This metrics should be able to reflect the performance evaluations at job position/designation level and further roll-up at the department level.
-### Project Development Life Cycle:
+## Project Development Life Cycle
 - Hybrid methodology used for development (agile + traditional).
 ### Project Roadmap:
 | Week | Date | Tasks |
@@ -62,10 +59,12 @@ Valor inc. is a company based in Berkeley, California, USA; who specializes in m
 |    |       | Documentation |
 | 15 | 04/27 | San Diego State University : Final project presentation |
 | 16 | 05/02 | San Diego State University : Final project report submission |
-### Data Sources
+### Data Sources:
 - PK (Compounding Pharmacy System Software) - For all prescriptions related data
 - Five9 - For all calls related data source.
 - Zendesk - For all tickets related data
 - Homebase API - For all employee schedule related data
 - Data Pipelining & Channelizing Tools - Talend, Snowflake
+## Results - Dashboard
+![Employee Dashboard Export](https://github.com/patilbp/performance-evaluation-metrics/assets/36761520/453995f0-f780-47b6-a79d-50cb34306efa)
 <br>
