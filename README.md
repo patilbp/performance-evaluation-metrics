@@ -1,7 +1,7 @@
 # BDA 600: Capstone Seminar (Comprehensive Exam)
 ## Project Title: Performance Evaluation Metrics System
 This project was developed for serving the comprehensive exam coursework requirements for the BDA600 - Capstone Seminar course at San Diego State University.
-This is a employer sponsored project and all the project requirements are shared by the employer <a href="https://valorcompounding.com/"> Valor Inc. </a>
+This is an employer sponsored project and all the project requirements are shared by the employer <a href="https://valorcompounding.com/"> Valor Inc. </a>
 <br><br>
 ![BG Title](https://github.com/patilbp/performance-evaluation-metrics/assets/36761520/4397572a-bd15-4897-bda9-78edf25c6fcb)
 <br>
